@@ -1,0 +1,6 @@
+This code was developed using the equations for laser-induced plasma plume atomic emissions from 
+"From sample to signal in laser-induced breakdown spectroscopy: A complex route to quantitative analysis" by Tognoni et al.
+
+Self absorption parameters are computed using the equations printed in Spectrochemical Analysis by J. Ingle (chapters 7 and appendix)
+
+The Gaussian, Lorentzian, and Voigt line profile functions were taken from https://scipython.com/book/chapter-8-scipy/examples/the-voigt-profile/
